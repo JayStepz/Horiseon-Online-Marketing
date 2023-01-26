@@ -6,7 +6,11 @@ This is the homepage of Horiseon Online Marketing. I was tasked with refactoring
 
 ## Usage
 
-It's the Horiseon Online Marketing homepage! Click the link, take a look, and see what we're about!
+It's the Horiseon Online Marketing homepage! Click the link (https://jaystepz.github.io/Horiseon-Online-Marketing/), take a look, and see what we're about!
+
+## Preview
+
+![JayStepz](/HoriseonScreenshot.png "Preview")
 
 ## Credit(s)
 
